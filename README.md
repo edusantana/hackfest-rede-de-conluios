@@ -19,11 +19,5 @@ Invocar executar neo4j:
 
     sudo docker run --publish=7474:7474 --publish=7687:7687 --volume=$HOME/neo4j/data:/data neo4j
 
+Acessar página do neo4j: [http://localhost:7474/browser/](http://localhost:7474/browser/)
 
-# Pitch elevator
-
-Criar encantar
-
-- Poucos segundos para apresentar negócio em alguns segundos.
-
-## Story Telle
