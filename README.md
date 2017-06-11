@@ -21,3 +21,11 @@ Invocar executar neo4j:
 
 Acessar página do neo4j: [http://localhost:7474/browser/](http://localhost:7474/browser/)
 
+
+# Ganhar dinheiro
+
+Você está participando de uma licitação com outra empesa, veri
+
+- Será que existe um conluio de empresas nas licitações que você partipa
+
+- Você resolveu participar de uma licitação e perdeu. Será que existe um conluio de empresas ganhando no seu ramo? Encontre uma rede de conluios!
