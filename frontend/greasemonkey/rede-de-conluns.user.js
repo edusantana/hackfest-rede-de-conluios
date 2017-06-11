@@ -125,8 +125,8 @@ for(var i=0; i<unidades.length; i++){
 }
 
 
-ok = document.createElement('button');
-ok.type = "button";
+ok = document.createElement('a');
+ok.href = "http://rpubs.com/marcuswac/conluios";
 ok.textContent = "Consultar"
 ok.style = "color: #fff; background-color: #0275d8; border-color: #0275d8; padding: .5rem 1rem;"
 meio.appendChild(ok);
