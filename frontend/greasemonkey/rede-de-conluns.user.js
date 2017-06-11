@@ -6,6 +6,10 @@
 // @grant       none
 // ==/UserScript==
 
+topo = document.createElement('topo');
 titulo = document.createElement('h1');
 titulo.textContent = "Rede de Conluios";
-document.getElementById('mount').parentElement.prepend(titulo);
+
+
+topo.appendChild(titulo);
+document.getElementById('mount').parentElement.prepend(topo);
