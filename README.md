@@ -39,7 +39,11 @@ Você está participando de uma licitação com outra empesa, veri
 - Você resolveu participar de uma licitação e perdeu. Será que existe um conluio de empresas ganhando no seu ramo? Encontre uma rede de conluios!
 
 
-Cod Unidade gestora
+Unidade gestora:
+CNPJ:
+Período: Inínio, Fim
+Valor: Mínimo, Máximo
+
 
 
 
